@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Alexandre Veloso 🖖
 
-<a href = "alexandre.velosowork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-veloso-/)
+<a href="mailto:alexandre.velosowork@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a> 
 
 
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre1Work&show_icons=true&theme=tokyonight)
