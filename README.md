@@ -41,8 +41,7 @@ Apaixonado por tecnologia!
 ## ⚡ Vamos conversar?
 
 Se quiser trocar uma ideia sobre tech, projetos ou oportunidades, só chamar! </br>
-📩 **Email:** alexandre.velosowork@gmail.com 
-🌎 **Certificados:** https://alexandreveloso.netlify.app/
+📩 **Email:** alexandre.velosowork@gmail.com  &nbsp; - &nbsp; 🌎 **Certificações:** https://alexandreveloso.netlify.app/
 
 ---
 
