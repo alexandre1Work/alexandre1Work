@@ -37,3 +37,13 @@ Apaixonado por tecnologia!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandre1Work/alexandre1Work/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexandre1Work/alexandre1Work/output/github-contribution-grid-snake.svg">
 </picture>
+
+## ⚡ Vamos conversar?
+
+Se quiser trocar uma ideia sobre tech, projetos ou oportunidades, só chamar! </br>
+📩 **Email:** alexandre.velosowork@gmail.com 
+🌎 **Certificados:** https://alexandreveloso.netlify.app/
+
+---
+
+> "Código limpo é como humor refinado: só quem entende, valoriza." 😎
