@@ -12,8 +12,8 @@
 ---
 
 <p align="center">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=alexandre1Work&show_icons=true&theme=tokyonight" />
-  <img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre1Work&theme=tokyonight" />
+  <img width="41.6%" src="https://github-readme-stats.vercel.app/api?username=alexandre1Work&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Estatísticas" />
+  <img <img width="45.4%" src="https://nirzak-streak-stats.vercel.app/?user=alexandre1Work&theme=dark&hide_border=false" alt="Streak Stats" />
 </p>
 
 
