@@ -12,9 +12,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandre1Work&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre1Work&theme=tokyonight" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=alexandre1Work&show_icons=true&theme=tokyonight" />
+  <img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre1Work&theme=tokyonight" />
 </p>
+
 
 ### Tecnologias que possuo conhecimento 🍵
 <p align="center">
