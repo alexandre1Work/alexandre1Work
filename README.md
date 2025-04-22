@@ -1,8 +1,8 @@
 <h2>🖖 Olá! Eu sou o Alexandre Veloso</h2>
 
-💻 Desenvolvedor **Back-End** com foco em evoluir para o **Fullstack**  
+💻 Desenvolvedor **Back-End** com foco em evoluir para o **Fullstack** 
+📚 Atualmente cursando Análise e Desenvolvimento de sistemas no CEUB
 🛠️ Técnico em Informática  
-🚀 Apaixonado por tecnologia
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-veloso-/)
 <a href="mailto:alexandre.velosowork@gmail.com">
